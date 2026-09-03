@@ -8,6 +8,10 @@ Paste notes, bullets, or comma separated tasks. VertexPath turns them into a fla
 ![Platform](https://img.shields.io/badge/desktop-Windows-0078D4)
 ![Web](https://img.shields.io/badge/web-GitHub%20Pages-222)
 
+Wanna Try it With Out Downloading 
+
+[Vertexpath Demonstration Website](https://herfavknife.github.io/vertexpath_demo/)
+
 ## Features
 
 - **Drop or open `.txt` / `.json`** lines become checks; JSON reloads a saved list
