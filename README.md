@@ -12,6 +12,9 @@ Wanna Try it With Out Downloading
 
 [Vertexpath Demonstration Website](https://herfavknife.github.io/vertexpath_demo/)
 
+<img width="1392" height="933" alt="image" src="https://github.com/user-attachments/assets/6ae4caca-7a2c-4044-b2b8-dc145b8a537a" />
+
+
 ## Features
 
 - **Drop or open `.txt` / `.json`** lines become checks; JSON reloads a saved list
@@ -25,6 +28,9 @@ Wanna Try it With Out Downloading
 - **Optional AI** on desktop only (off by default). **Never** on the website
 
 ## Desktop (Windows)
+
+<img width="1006" height="876" alt="image" src="https://github.com/user-attachments/assets/61fb91ab-3ed1-40ba-9a42-34d2052bbfc3" />
+
 
 ### Requirements
 
